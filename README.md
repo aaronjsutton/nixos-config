@@ -1,4 +1,4 @@
-# NixOS System Configurations
+# Config
 
 This repository contains my NixOS system configurations. It is based on the
 excellent [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config).
